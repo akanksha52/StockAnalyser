@@ -1,0 +1,21 @@
+.stock-summary {
+  padding: 20px;
+  text-align: center;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+
+.plot-section {
+  margin-top: 40px;
+}
+
+.plot-section img {
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.2);
+}
